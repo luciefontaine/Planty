@@ -1,0 +1,49 @@
+/*
+Theme Name: Divi Child
+Description: Theme enfant de Divi. Vous pouvez maintenant effectuer vos modifications en toute sécurité.
+Author: Marie lucie IHOVE-IMACHE
+Author URI: 
+Template: Divi
+Version: 1.0
+*/
+.btn-command {
+	background-color:pink;
+    height: 20px;
+    padding: 30px;
+    margin: 0px;
+    border: 10px solid blue;
+
+}
+
+#et-top-navigation {
+    background-color: blueviolet;
+    
+}
+
+.title_info {
+    color: #FFF;
+    font-family: Syne;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+label {
+    width: 20%;
+    height: 80px;
+    padding: 100px;
+    color: #FFF;
+    border:0px;
+}
+
+#btn_cmd {
+    border-radius: 5px;
+    background: #E0B9B4;
+    width: 198px;
+    height: 55px;
+    padding: 9px 57px 9px 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
